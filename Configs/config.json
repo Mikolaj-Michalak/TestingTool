@@ -1,0 +1,15 @@
+{
+
+    "game_names": [
+        "Mad Men and Nuclear War",
+        "Stunning Hot 20 Deluxe",
+        "Voodoo Candy Shop",
+        "Cold as Ice"
+    ],
+    "game_names": [
+        "Cold as Ice"
+    ],
+    "game_names": ["Cold as Ice", "Ocean Reef", "Stunning Hot", "Stunning Hot 20 Deluxe", "Voodoo Candy Shop", "Transylvanian Beauty", "Pharaohs and Aliens", "Steampunk Big City", "Wild Jack", "Tequila Fiesta", "Alice in Wonderland", "Energy Fruits", "Energy Stars", "Fresh Fortune", "Fruitastic", "Golden Lamp", "Golden New World", "Jewels World", "Mad Men and Nuclear War", "Royal Crown", "Riches from the Deep", "Rome Warrior", "Stunning27", "Voodoo Candy Shop Deluxe", "Vintage Win", "Ancient Secret", "Dark Carnivale", "Jazz Spin", "Pyramid Treasure", "Rich Castle", "Star Fortune", "Magic Queens", "Continent Africa", "Joker Spin", "Golden Chance", "Best New York Food", "Stunning Snow", "Magic Hunter", "Book of Ming", "Koi Kingdom", "Dragon's Power", "Pagoda of Fortune", "Gold of Ming", "Koi Kingdom Asia", "Dragon's Power Asia", "Pagoda of Fortune Asia", "Gold of Ming Asia", "Ancient Secret Dice", "Energy Fruits Dice", "Magic Queens Dice", "Pyramid Treasure Dice", "Royal Crown Dice", "Star Fortune Dice", "Stunning Hot Dice", "Stunning Hot 20 Deluxe Dice", "Stunning27 Dice", "Voodoo Candy Shop Dice", "Wild Jack Dice"],
+    
+    "languages": ["en", "pl", "sr", "ro", "de", "eo", "fr", "nl", "zh", "lv", "et", "ru", "it", "lt", "th", "tr", "hu", "hr", "sk", "pt", "bg", "el"]
+}
